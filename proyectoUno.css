@@ -1,0 +1,17 @@
+/*Las páginas de perfil de usuario tienen un gran impacto en el éxito de un sitio web. Comencemos aplicando algunos colores y alineaciones.
+Tareas
+Establece el color de fondo del cuerpo a DarkSlateGrey
+Alinea al centro los encabezados y párrafos, y establece su color de texto a blanco
+"Ejecuta" el código para previsualizar la página. Luego "guarda" tu progreso y continúa */
+
+body {
+    background-color: darkslategray;
+}
+
+.Nasly {
+    text-align: center;
+    color: white;
+    text-decoration: wavy overline #FF4500;
+    font-size: 28px;
+}
+
